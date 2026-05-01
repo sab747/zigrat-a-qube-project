@@ -1,6 +1,6 @@
 const weatherLines = {
   ember:
-    "Rose ash falls through the honeymoon garden. The winged machines count the thresholds, tenderly.",
+    "Rose ash falls through the honeymoon garden. The feathered machines count the thresholds, tenderly.",
   funnel:
     "A funnel cloud crosses the old desktop hill and returns your first forgotten screen name.",
   static:
@@ -8,8 +8,8 @@ const weatherLines = {
 };
 
 const oracleLines = {
-  wing:
-    "Wing signal accepted. Your ache has been polished until it resembles a pearl button.",
+  dove:
+    "Dove signal accepted. Your ache has been polished until it resembles an alabaster button.",
   cube:
     "Qube resonance stable. The ziggurat beneath the interface is asking for a renewal fee.",
   saturn:
